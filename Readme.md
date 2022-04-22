@@ -53,6 +53,8 @@ The video to the presentation can be accessed on Youtube [here](https://youtu.be
 
 ## Contributors
 
+We are from Lab group SC5, Project Group 1
+
 - @HiIAmTzeKean (Data cleaning, Machine model, Conclusions)
 - @Ki-ann (XGBoost)
 - @onghaixiang (EDA)
