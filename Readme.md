@@ -6,6 +6,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For detailed walk-through, please view the source code in order from:  
 
+**NOTE: The csv file has been zipped and is uploaded on lfs, please unzip the dataset before running the code.**
+
 1. Exploratory Data Analysis, [Part 1](1.%20EDA-part1.ipynb) & [Part 2](1.%20EDA-part2.ipynb)
 2. [Data cleaning and Feature engineering](2.%20Data%20cleaning%20and%20Feature%20engineering.ipynb)
 3. [Machine model exploration](3.%20Machine%20model%20exploration.ipynb)
