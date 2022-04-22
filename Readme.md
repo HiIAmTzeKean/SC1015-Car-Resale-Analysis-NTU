@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For detailed walk-through, please view the source code in order from:  
 
-**NOTE: The csv file has been zipped and is uploaded on lfs, please unzip the dataset before running the code.**
+**NOTE: The csv file has been zipped and is uploaded on lfs. There is no need to unzip it as the code can run using the zip file.**
 
 1. Exploratory Data Analysis, [Part 1](1.%20EDA-part1.ipynb) & [Part 2](1.%20EDA-part2.ipynb)
 2. [Data cleaning and Feature engineering](2.%20Data%20cleaning%20and%20Feature%20engineering.ipynb)
@@ -30,7 +30,7 @@ For detailed walk-through, please view the source code in order from:
 
 ## Presentation
 
-The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides are also uploaded to the repository for easy viewing.
+The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides and the video file are also uploaded to the repository for easy viewing [here](Presentation/).
 
 ## Conclusion
 
@@ -48,11 +48,12 @@ The video to the presentation can be accessed on Youtube [here](https://youtu.be
 - Regression models may not always be the best approach and other models could give rise to a better fit
 - XGBoost and the logic behind the model (concepts about Precision, Recall, and F1 Score)
 - Feature engineering techniques such as imputation, discretization... (more in the notebooks)
+- Working with each other on Github and some of the utilities to support remote collaboration.
 - To not blindly fit dataset into models as some variables can be insanely skewed
 
 ## Contributors
 
-- @HiIAmTzeKean (Data cleaning, Machine model,Conclusions)
+- @HiIAmTzeKean (Data cleaning, Machine model, Conclusions)
 - @Ki-ann (XGBoost)
 - @onghaixiang (EDA)
 
