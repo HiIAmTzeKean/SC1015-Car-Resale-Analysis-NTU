@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on how car prices are affected by these variables from [dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data).  
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on how car prices are affected by these variables from [dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data) (Version 10).  
 
 For detailed walk-through, please view the source code in order from:  
 
@@ -30,7 +30,7 @@ For detailed walk-through, please view the source code in order from:
 
 ## Presentation
 
-The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides and the video are also uploaded to the repository for easy viewing.
+The video to the presentation can be accessed on Youtube [here](https://youtu.be/IUqfuVxWN-Q). Slides are also uploaded to the repository for easy viewing.
 
 ## Conclusion
 
