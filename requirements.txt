@@ -1,0 +1,10 @@
+graphviz
+opendatasets
+xgboost
+sweetviz
+seaborn
+pandas
+numpy
+plotly
+sklearn
+missingno
