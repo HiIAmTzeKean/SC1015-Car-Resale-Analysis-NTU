@@ -6,13 +6,12 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For detailed walk-through, please view the source code in order from:  
 
-**NOTE: The csv file has been zipped and is uploaded on lfs. There is no need to unzip it as the code can run using the zip file.**
-
 1. Exploratory Data Analysis, [Part 1](1.%20EDA-part1.ipynb) & [Part 2](1.%20EDA-part2.ipynb)
 2. [Data cleaning and Feature engineering](2.%20Data%20cleaning%20and%20Feature%20engineering.ipynb)
 3. [Machine model exploration](3.%20Machine%20model%20exploration.ipynb)
 4. [XGBoost tree](4.%20XGB%20model%20exploration-20220419-103334.ipynb)
 5. [Conclusion](5.%20Conclusions.ipynb)
+6. [Video Presentation](https://www.youtube.com/watch?v=IUqfuVxWN-Q)
 
 ## Problem Definition
 
